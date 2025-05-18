@@ -113,7 +113,3 @@ To make this system scalable for real-world deployment with thousands of drones:
 3. Add real-time data streaming capabilities
 4. Implement a database backend for flight registration and conflict logging
 5. Add machine learning for predicting and preventing conflicts
-
-## License
-
-MIT License
